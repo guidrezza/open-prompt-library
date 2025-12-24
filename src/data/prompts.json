@@ -1,0 +1,29 @@
+[
+    {
+        "id": "1",
+        "title": "Retro Game Sprite",
+        "description": "Turns any portrait into a 16-bit RPG character.",
+        "prompt": "Pixel art style, 16-bit SNES aesthetics, vibrant colors, isolated on white background, sharp edges, RPG character design, retro gaming vibe.",
+        "beforeImage": "https://images.unsplash.com/photo-1542909168-82c3e7fdca5c?q=80&w=800&auto=format&fit=crop",
+        "afterImage": "https://images.unsplash.com/photo-1550745165-9bc0b252726f?q=80&w=800&auto=format&fit=crop",
+        "category": "Gaming"
+    },
+    {
+        "id": "2",
+        "title": "Cyberpunk Portrait",
+        "description": "Transform casual photos into neon-lit futuristic street art.",
+        "prompt": "Cyberpunk aesthetics, neon blue and pink lighting, futuristic city background, highly detailed tech-wear, glowing eyes, cinematic lighting, 8k resolution.",
+        "beforeImage": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?q=80&w=800&auto=format&fit=crop",
+        "afterImage": "https://images.unsplash.com/photo-1605810230434-7631ac76ec81?q=80&w=800&auto=format&fit=crop",
+        "category": "Style"
+    },
+    {
+        "id": "3",
+        "title": "Studio Ghibli Vibe",
+        "description": "Soft, painterly anime style for landscape photos.",
+        "prompt": "Studio Ghibli style, hand-painted texture, lush green meadows, soft fluffy clouds, vibrant blue sky, whimsical atmosphere, cinematic anime background.",
+        "beforeImage": "https://images.unsplash.com/photo-1501785888041-af3ef285b470?q=80&w=800&auto=format&fit=crop",
+        "afterImage": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?q=80&w=800&auto=format&fit=crop",
+        "category": "Landscape"
+    }
+]
